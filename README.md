@@ -9,7 +9,7 @@
 ###3
 ![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/gfg%20certificate.pdf)
 ###4
-![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/hackhaven2.0.pdf)
+![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/gfg%20certificate_page-0001.jpg)
 ###5
 ![Completion](http://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/hacknovate%206.0.pdf)
 ###6
