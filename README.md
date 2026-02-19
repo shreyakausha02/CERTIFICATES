@@ -7,7 +7,7 @@
 ###2 
 ![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/codechef%20certificate.jpeg)
 ###3
-![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/gfg%20certificate.pdf)
+![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/hackhaven2.0_page-0001.jpg)
 ###4
 ![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/gfg%20certificate_page-0001.jpg)
 ###5
