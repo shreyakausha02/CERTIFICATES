@@ -14,5 +14,7 @@
 ![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/hacknovate%206.0_page-0001.jpg)
 ### 6. Database Management System
 ![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/infosys%20dbms.jpg)
+### 7. Data Cleaning Using Python
+
 
 
