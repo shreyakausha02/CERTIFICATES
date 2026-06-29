@@ -15,6 +15,6 @@
 ### 6. Database Management System
 ![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/infosys%20dbms.jpg)
 ### 7. Data Cleaning Using Python
-
+![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Data%20cleaning%20using%20python.jpeg)
 
 
