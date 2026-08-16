@@ -16,6 +16,6 @@
 ![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Certificates/infosys%20dbms.jpg)
 ### 7. Data Cleaning Using Python
 ![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/Data%20cleaning%20using%20python.jpeg)
-### 8.Deloitte — Data Analytics Job Simulation | Forage
+### 8. Deloitte — Data Analytics Job Simulation | Forage
 ![Completion](https://github.com/shreyakausha02/CERTIFICATES/blob/main/deloitte%20certificate_page-0001.jpg)
 
